@@ -5,13 +5,13 @@ PODS:
 
 DEPENDENCIES:
   - Flutter (from `Pods/.symlinks/flutter/ios`)
-  - video_picker (from `Pods/.symlinks/plugins/video_picker/ios`)
+  - video_picker (from `Pods/.symlinks/plugins/flutter-video-picker/ios`)
 
 EXTERNAL SOURCES:
   Flutter:
     :path: Pods/.symlinks/flutter/ios
   video_picker:
-    :path: Pods/.symlinks/plugins/video_picker/ios
+    :path: Pods/.symlinks/plugins/flutter-video-picker/ios
 
 SPEC CHECKSUMS:
   Flutter: 9d0fac939486c9aba2809b7982dfdbb47a7b0296

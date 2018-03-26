@@ -1,10 +1,5 @@
-# video_picker
+# Video Picker Plugin for Flutter
 
-A new flutter plugin project.
+A Flutter plugin for iOS and Android for picking video from the library.
 
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
-
-For help on editing plugin code, view the [documentation](https://flutter.io/platform-plugins/#edit-code).
+Note: This plugin is still under development.
